@@ -4,7 +4,7 @@
 
 ## Requirements
 
-- [yarn](https://yarnpkg.com/lang/en/docs/install/#mac-stable)\*
+- [yarn](https://yarnpkg.com/lang/en/docs/install/)\*
 
 \* There have been some issues with `npm install`, so the exercises in this repo use a `yarn.lock` instead.
 
