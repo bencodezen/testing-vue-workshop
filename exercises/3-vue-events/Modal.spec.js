@@ -1,1 +1,1 @@
-test('emits on-close event when close button is clicked')
+test('emits close-modal event when close button is clicked')
