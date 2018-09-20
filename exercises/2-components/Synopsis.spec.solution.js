@@ -6,7 +6,7 @@ import { shallowMount } from '@vue/test-utils'
 // const wrapper = shallowMount(Component, {
 //   slots: {
 //     foo: '<div />',
-//     bar: 'bar',
+//     bar: '<p>bar</p>',
 //   }
 // })
 //

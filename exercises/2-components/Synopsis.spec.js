@@ -5,7 +5,7 @@ import Synopsis from './Synopsis.vue'
 // const wrapper = shallowMount(Component, {
 //   slots: {
 //     foo: '<div />',
-//     bar: 'bar',
+//     bar: '<p>bar</p>',
 //   }
 // })
 //
