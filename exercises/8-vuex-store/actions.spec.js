@@ -1,3 +1,5 @@
+test('fetchItems commits items returned by api method')
+
 test('fetchItems commits setLoading when called')
 
 test(
